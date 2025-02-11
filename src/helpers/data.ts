@@ -20,8 +20,8 @@ export const EXPERIENCES = [
             en: "Fullstack Developer"
         },
         company: {
-            vi: "Công ty ABCXYZ Ltd.",
-            en: "ABCXYZ Ltd."
+            vi: "Công ty VietNetWork Ltd.",
+            en: "VietNetWork Ltd."
         },
         duration: {
             vi: "Jan 2024 - Hiện tại",
@@ -36,8 +36,8 @@ export const EXPERIENCES = [
         },
 
         company: {
-            vi: "Công ty F (freelancer)",
-            en: "F (freelancer)"
+            vi: "freelancer",
+            en: "freelancer"
         },
         duration: {
             vi: "Tháng 6/2022 - Tháng 1/2024",
