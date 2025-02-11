@@ -9,7 +9,7 @@ export const APP_DATA = {
     YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
     TIKTOK_URL: "https://www.tiktok.com/@hoidanit",
     UDEMY_URL: "https://www.udemy.com/user/eric-7039/",
-    FACEBOOK_URL: "https://www.facebook.com/askITwithERIC/"
+    FACEBOOK_URL: "https://www.facebook.com/profile.php?id=100005923727410"
 }
 
 export const EXPERIENCES = [

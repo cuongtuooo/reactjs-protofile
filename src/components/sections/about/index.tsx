@@ -18,11 +18,11 @@ const About = () => {
                     <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+                            <p> Hi Everyone, I am Nguyen Manh Cuong from Hanoi, VietNam.</p>
 
-                            <p> I am currently employed as a a freelance dev (start-up).</p>
+                            <p> I am currently employed as a a freelance dev.</p>
 
-                            <p> I have completed Bachelor's degree in Software Engineer at Hanoi University of Science and Technology (HUST).</p>
+                            <p> I have completed Bac Ha International Technology (HUST).</p>
                         </div>
                     </div>
                     <div>
@@ -31,8 +31,8 @@ const About = () => {
                         </p>
                         <ul>
                             <li>Playing Games</li>
-                            <li>Writing Tech Blogs</li>
-                            <li>Travelling</li>
+                            <li>FootBall</li>
+                            <li>Music</li>
                         </ul>
                     </div>
                     <div>
@@ -74,7 +74,7 @@ const About = () => {
                                             </div>
                                             <div className="info">
                                                 <p className="title">Softwaren Engineer</p>
-                                                <p className="company">Hanoi University of Science and Technology (HUST)</p>
+                                                <p className="company">Bac Ha University</p>
                                             </div>
                                         </div>
                                     </div>
@@ -90,10 +90,10 @@ const About = () => {
                 <Col md={6} xs={12} className=" mt-md-5 mt-3">
                     <h3 className="mb-md-5 mb-2">FIND ME ON </h3>
                     <SocialMedia
-                        youtube={APP_DATA.YOUTUBE_URL}
+                        // youtube={APP_DATA.YOUTUBE_URL}
                         facebook={APP_DATA.FACEBOOK_URL}
-                        tiktok={APP_DATA.TIKTOK_URL}
-                        udemy={APP_DATA.UDEMY_URL}
+                    // tiktok={APP_DATA.TIKTOK_URL}
+                    // udemy={APP_DATA.UDEMY_URL}
                     />
                 </Col >
                 <Col md={6} xs={12} className="d-flex flex-column align-items-center justify-content-center">
