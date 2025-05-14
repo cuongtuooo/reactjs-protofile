@@ -9,7 +9,7 @@ interface IProps {
     title: string;
     description: string;
     githubLink: string;
-    demoLink: string;
+    demoLink?: string;
 }
 
 function ProjectCard(props: IProps) {
@@ -30,7 +30,7 @@ function ProjectCard(props: IProps) {
                             GitHub
                         </Button>
 
-                        <Button
+                        {/* <Button
                             variant="primary"
                             href={props.demoLink}
                             target="_blank"
@@ -38,7 +38,7 @@ function ProjectCard(props: IProps) {
                         >
                             <CgWebsite /> &nbsp;
                             {"Demo"}
-                        </Button>
+                        </Button> */}
 
                     </div>
                 </div>

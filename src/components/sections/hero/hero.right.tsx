@@ -29,21 +29,21 @@ const HeroRight = () => {
                         <span>{`['`}</span>
                         <span >React</span>
                         <span>{"', '"}</span>
-                        <span >Redux</span>
-                        <span>{"', '"}</span>
-                        <span >NextJS</span>
-                        <span>{"', '"}</span>
+                        {/* <span >Redux</span>
+                        <span>{"', '"}</span> */}
+                        {/* <span >NextJS</span>
+                        <span>{"', '"}</span> */}
                         <span >Java Spring</span>
                         <span>{"', '"}</span>
-                        <span >NestJS</span>
+                        {/* <span >NestJS</span>
                         <span>{"', '"}</span>
                         <span >NoSQL</span>
-                        <span>{"', '"}</span>
+                        <span>{"', '"}</span> */}
                         <span >SQL</span>
                         <span>{"', '"}</span>
-                        <span >Docker</span>
+                        <span >Nodejs</span>
                         <span>{"', '"}</span>
-                        <span >K8S</span>
+                        <span >PHP</span>
                         <span>{"'],"}</span>
                     </div>
                     <div>
