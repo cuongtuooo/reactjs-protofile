@@ -89,18 +89,18 @@ export const PROJECTS = [
     },
     {
         id: 4,
-        imgPath: reactUltimateImg,
-        title: "Base giao diện bán gói cước wifi làm cho công ty Vietnetwork",
-        description: "Xây dựng giao diện bằng reactjs cho công ty vietnetwork kết nối với api của laravel",
-        githubLink: "https://github.com/cuongtuooo/uiuxvjnetw",
+        imgPath: "images/dich-vu2.jpg",
+        title: "Frontend Web giới thiệu công ty EyeSea",
+        description: "Giao diện quản trị quản lý sản phẩm, danh mục, đơn hàng, người dùng. Tích hợp trình soạn thảo văn bản để nhập mô tả sản phẩm dạng HTML. Xuất báo cáo dạng Excel/CSV, hiển thị ảnh dạng slider/gallery. Responsive, tối ưu tốc độ build bằng Vite.",
+        githubLink: "https://github.com/cuongtuooo/seaport-frontend",
         // demoLink: "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html"
     },
     {
         id: 5,
-        imgPath: reactUltimateImg,
-        title: "Giao diện được cắt bằng html, css, javascript khi thực tập",
-        description: "Cắt giao diện thì firma bằng html, css",
-        githubLink: "https://cuongtuooo.github.io/blog-shop-clother/",
+        imgPath: "images/do-goc-thuyen-cap-cang.jpg",
+        title: "Backend Web giới thiệu công ty EyeSea",
+        description: "Cung cấp API bảo mật với JWT AuthGuard. CRUD cho sản phẩm, danh mục, đơn hàng, người dùng. Xử lý upload ảnh sản phẩm, lưu trữ file tĩnh. Xóa mềm dữ liệu với Soft-delete.",
+        githubLink: "https://github.com/cuongtuooo/seaport-backend",
         // demoLink: "https://hoidanit.vn/khoa-hoc/nestjs-voi-typescript-mongodb-sieu-de-64686ec6fb456bbb90663dd6.html"
     },
     // {
