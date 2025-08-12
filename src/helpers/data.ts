@@ -19,13 +19,14 @@ export const EXPERIENCES = [
             vi: "Lập Trình Viên",
             en: "Fullstack Developer"
         },
+
         company: {
-            vi: "Công ty VietNetWork Ltd.",
-            en: "VietNetWork Ltd."
+            vi: "freelancer",
+            en: "freelancer"
         },
         duration: {
-            vi: "Jan 2024 - Hiện tại",
-            en: "Jan 2024 - Present"
+            vi: "Tháng 6/2023 - Nay",
+            en: "Jun 2023 - Present"
         }
     },
     {
@@ -34,29 +35,29 @@ export const EXPERIENCES = [
             vi: "Lập Trình Viên",
             en: "Fullstack Developer"
         },
-
         company: {
-            vi: "freelancer",
-            en: "freelancer"
+            vi: "Công ty VietNetWork Ltd.",
+            en: "VietNetWork Ltd."
         },
         duration: {
-            vi: "Tháng 6/2022 - Tháng 1/2024",
-            en: "Jun 2022 - Jan 2024"
+            vi: "Jan 2024 ",
+            en: "Jan 2024 "
         }
     },
+    
     {
         id: 3,
         title: {
-            vi: "Dự án tự làm",
-            en: "Self Employed"
+            vi: "Thực tập sinh",
+            en: "Intern"
         },
         company: {
-            vi: "Học kiến thức mới mỗi ngày",
-            en: "Code and build something in everyday."
+            vi: "Bac Ha software",
+            en: "Bac Ha software."
         },
         duration: {
-            vi: "Tháng 1/2020 - Hiện tại",
-            en: "Jan 2020 - Present"
+            vi: "Tháng 11/2022 - Tháng 2/2023",
+            en: "November 2022 - February 2023"
         }
     }
 ]
@@ -64,25 +65,25 @@ export const EXPERIENCES = [
 export const PROJECTS = [
     {
         id: 1,
-        imgPath: springRestImg,
-        title: "Back end web bán sách",
-        description: "Thực hiện làm api bằng spring boot rest api, dùng reactjs để render dữ liệu, thực hành theo khóa học của hỏi dân it",
-        githubLink: "https://github.com/cuongtuooo/webbansach_backend",
+        imgPath: "images/quan-trac-hai-van.jpg",
+        title: "Backend book store",
+        description: "Cung cấp API bảo mật với JWT AuthGuard. CRUD cho sản phẩm, danh mục, đơn hàng, người dùng. Xử lý upload ảnh sản phẩm, lưu trữ file tĩnh. Xóa mềm dữ liệu với Soft-delete.",
+        githubLink: "https://github.com/cuongtuooo/bookshop-backend",
         // demoLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html"
     },
     {
         id: 2,
-        imgPath: reactUltimateImg,
-        title: "Front-end web bán sách",
-        description: "sử dụng reactjs, áp dụng antd, thực hành theo khóa học của hỏi dân it",
-        githubLink: "https://github.com/cuongtuooo/react-fresher",
+        imgPath: "images/ve-tinh.jpg",
+        title: "Frontend book store",
+        description: "Giao diện quản trị quản lý sản phẩm, danh mục, đơn hàng, người dùng. Trang khách hàng cho phép duyệt sản phẩm, tìm kiếm, xem chi tiết, thêm giỏ hàng, đặt hàng. Tích hợp trình soạn thảo văn bản để nhập mô tả sản phẩm dạng HTML. Xuất báo cáo dạng Excel/CSV, hiển thị ảnh dạng slider/gallery. Responsive, tối ưu tốc độ build bằng Vite.",
+        githubLink: "https://github.com/cuongtuooo/bookshop-frontend",
         // demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html"
     },
     {
         id: 3,
-        imgPath: reactUltimateImg,
-        title: "CV online",
-        description: "sử dụng reactjs làm bản cv online, deploy lên vercel, thực hành theo khóa học của hỏi dân it",
+        imgPath: "images/dien-gio-ngoai-khoi.jpg",
+        title: "protofile",
+        description: "Giao diện hiện đại sử dụng component-based architecture của React, tối ưu hiệu năng qua Vite. Hỗ trợ đa ngôn ngữ qua i18n, cho phép người dùng chuyển đổi ngôn ngữ linh hoạt. Hiệu ứng trực quan bằng Lottie animation và SVG, nâng cao trải nghiệm người dùng. Responsive Design tương thích trên nhiều kích thước màn hình.",
         githubLink: "https://github.com/cuongtuooo/reactjs-protofile",
         // demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html"
     },

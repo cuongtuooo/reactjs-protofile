@@ -41,7 +41,9 @@ const HeroRight = () => {
                         <span>{"', '"}</span> */}
                         <span >SQL</span>
                         <span>{"', '"}</span>
-                        <span >Nodejs</span>
+                        <span >Nestjs</span>
+                        <span>{"', '"}</span>
+                        <span >Monggodb</span>
                         <span>{"', '"}</span>
                         <span >PHP</span>
                         <span>{"'],"}</span>
